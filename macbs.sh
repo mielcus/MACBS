@@ -6,8 +6,8 @@
 
 ### OPTIONS AND VARIABLES ###
 
-dotfilesrepo="https://github.com/lukesmithxyz/voidrice.git"
-progsfile="https://raw.githubusercontent.com/LukeSmithxyz/LARBS/master/progs.csv"
+dotfilesrepo="https://github.com/mielcus/dotfiles.git"
+progsfile="https://raw.githubusercontent.com/mielcus/MACBS/main/progs.csv"
 aurhelper="yay"
 repobranch="master"
 
